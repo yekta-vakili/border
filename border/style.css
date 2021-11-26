@@ -1,0 +1,100 @@
+.circle {
+  position: relative;
+  top: 27px;
+  left: 44%;
+  width: 100px;
+  height: 100px;
+  background-color: #9505d1;
+  border-radius: 50%;
+  color: white;
+  border-style: dashed;
+  border-width: 8px;
+  border-color: rgb(228, 155, 166);
+  font-size: 50px;
+  text-align: center;
+}
+.flower {
+  position: relative;
+  top: 20px;
+  left: 1px;
+}
+.b0{
+    position: relative;
+    top: 50px;
+    left: 480px;
+    width: 400px;
+    height: 60px;
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+    background-color: lightskyblue;
+    font-size: 25px;
+    border-left-style: solid;
+    border-color: mediumblue;
+    border-left-width: 10px;
+}
+.b1{
+    position: relative;
+    top: 70px;
+    left: 480px;
+    width: 400px;
+    height: 60px;
+    padding-top: 15px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    border-style: dashed;
+    background-color:greenyellow;
+    border-radius: 25px; 
+    border-bottom-color: green;
+
+}
+.b2{
+    position: relative;
+    top: 94px;
+    left: 480px;
+    width: 400px;
+    height: 60px;
+    padding-top: 15px;
+    font-size: 20px;
+    border-style: double;
+    text-align: center;
+    border-width: 5px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: yellow;
+    border-color: brown;
+}
+.b3{
+    position: relative;
+    top: 120px;
+    left: 480px;
+    width: 400px;
+    height: 60px;
+    padding-top: 15px;
+    font-size: 20px;
+    color: white;
+    text-align:center;
+    border-style: dashed;
+    border-left-style: solid ;
+    border-right-style: solid;
+    background-color: orange;
+    border-color: brown;
+}
+.b4{
+    position: relative;
+    top: 145px;
+    left: 473px;
+    width: 400px;
+    height: 60px;
+    padding-top: 15px;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    border-style:groove;
+    border-color: rgb(218, 119, 80);
+    border-bottom-width: 20px;
+    border-right-width: 10px;
+    border-left-width: 15px;
+    background-color: maroon;
+}
